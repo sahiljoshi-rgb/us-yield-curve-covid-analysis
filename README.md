@@ -109,3 +109,7 @@ This project is licensed under the MIT License.
 
 ### 10. Author
 Sahil Joshi (LinkedIn: https://www.linkedin.com/in/sahil-joshi-90338a212/)
+
+### 11. References
+- This project was developed with guidance from the yield-curve and term-structure coursework in the **WorldQuant University MSc in Financial Engineering** program.
+- The structure of the analysis, factor decomposition, and recession-window methodology follow the foundations established in the course materials.
