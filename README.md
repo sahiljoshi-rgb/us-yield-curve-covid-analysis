@@ -65,6 +65,9 @@ This project explores the behaviour of the U.S. Treasury yield curve from 1975 t
 ### Install Dependencies
 ``` pip install -r requirements.txt ```
 
+### You will need a free FRED API key:
+``` https://fred.stlouisfed.org/docs/api/api_key.html ```
+
 ### Requirements
 ```
 - pandas
