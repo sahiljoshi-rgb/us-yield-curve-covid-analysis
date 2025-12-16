@@ -62,20 +62,10 @@ This project explores the behaviour of the U.S. Treasury yield curve from 1975 t
 
 ---
 
-## How to Run the Notebook
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/sahiljoshi-rgb/us-yield-curve-covid-analysis.git
-cd us-yield-curve-covid-analysis
-```
-### 2. Install Dependencies
+### Install Dependencies
 ``` pip install -r requirements.txt ```
 
-### 3. Launch Jupyter Notebook
-``` jupyter notebook notebooks/us-yield-curve-covid-analysis.ipynb ```
-
-### 4. Requirements
+### Requirements
 ```
 - pandas
 - numpy
@@ -85,16 +75,16 @@ cd us-yield-curve-covid-analysis
 - jupyterlab  (optional)
 ```
 
-### 5. Data Source Attribution
+### Data Source Attribution
 ``` All data is sourced from: FRED (Federal Reserve Economic Data) ```
 
-### 6. Yield series used: 
+### Yield series used: 
 ``` DGS1MO, DGS3MO, DGS6MO, DGS1, DGS2, DGS3, DGS5, DGS7, DGS10, DGS20, DGS30 ```
 
-### 7. Equity index series:
+### Equity index series:
 ``` SP500 ```
 
-### 8. Data is retrieved programmatically via the fredapi library.
+### Data is retrieved programmatically via the fredapi library.
 ``` Purpose of This Project
 - A hands-on learning project in fixed-income analytics
 - A replicable research notebook for term-structure studies
@@ -102,12 +92,12 @@ cd us-yield-curve-covid-analysis
 - A foundation for future models such as PCA, Nelson–Siegel, and affine term-structure models
 ```
 
-### 9. License
+### License
 ```
 This project is licensed under the MIT License.
 ```
 
-### 10. Author
+### 1Author
 Sahil Joshi (LinkedIn: https://www.linkedin.com/in/sahil-joshi-90338a212/)
 
 ### 11. References
